@@ -1,3 +1,3 @@
-# PatikaDev: Python Basic Project
+# PatikaDev
 
-This projects are necessary for ending the course named 'Python Basics' in PatikaDev.
+This projects are necessary for ending the courses in PatikaDev.
